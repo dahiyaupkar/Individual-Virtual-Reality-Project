@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: ffb9c6682d06b2f4186179d0472bbc8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3DGeom~1
+    100002: 3DGeom~10
+    100004: 3DGeom~2
+    100006: 3DGeom~3
+    100008: 3DGeom~4
+    100010: 3DGeom~5
+    100012: 3DGeom~6
+    100014: 3DGeom~7
+    100016: 3DGeom~8
+    100018: 3DGeom~9
+    100020: Assembly~1
+    100022: Assembly~10
+    100024: Assembly~3
+    100026: Assembly~4
+    100028: bed_1
+    100030: Box001
+    100032: Box002
+    100034: Box004
+    100036: Box005
+    100038: Box006
+    100040: Box007
+    100042: Box008
+    100044: Box009
+    100046: Box01
+    100048: Box010
+    100050: Cylinder002
+    100052: Cylinder01
+    100054: dik
+    100056: dik001
+    100058: dryer
+    100060: end_door
+    100062: //RootNode
+    100064: Ground
+    100066: Group001
+    100068: kitchen
+    100070: kitchen_cabinet
+    100072: laundry_room
+    100074: "Layer29:yaz\u0131002"
+    100076: "Layer29:yaz\u013101"
+    100078: "Layer30:yaz\u0131002"
+    100080: "Layer30:yaz\u013101"
+    100082: "Layer31:yaz\u0131002"
+    100084: "Layer31:yaz\u013101"
+    100086: "Layer32:yaz\u0131002"
+    100088: "Layer32:yaz\u013101"
+    100090: "Layer33:yaz\u0131002"
+    100092: "Layer33:yaz\u013101"
+    100094: "Layer34:yaz\u0131002"
+    100096: "Layer34:yaz\u013101"
+    100098: "Layer:yaz\u0131002"
+    100100: "Layer:yaz\u013101"
+    100102: Line002
+    100104: Line01
+    100106: Lova 1
+    100108: main_door
+    100110: master_bed_room_door
+    100112: Object001
+    100114: Part~2
+    100116: Part~5
+    100118: Part~6
+    100120: Part~7
+    100122: Part~8
+    100124: Part~9
+    100126: pasted__Box01
+    100128: pasted__Box01 1
+    100130: pasted__Box01 2
+    100132: pasted__Cylinder01
+    100134: pasted__Cylinder01 1
+    100136: pasted__Cylinder01 2
+    100138: pasted__dik
+    100140: pasted__dik 1
+    100142: pasted__dik 2
+    100144: pasted__dik001
+    100146: pasted__dik001 1
+    100148: pasted__dik001 2
+    100150: pasted__Line002
+    100152: pasted__Line002 1
+    100154: pasted__Line002 2
+    100156: pasted__Line01
+    100158: pasted__Line01 1
+    100160: pasted__Line01 2
+    100162: pasted__main_door
+    100164: pasted__main_door 1
+    100166: pasted__main_door 2
+    100168: pasted__master_bed_room_door
+    100170: pasted__Object001
+    100172: pasted__pasted__Box01
+    100174: pasted__pasted__Cylinder01
+    100176: pasted__pasted__dik
+    100178: pasted__pasted__dik001
+    100180: pasted__pasted__Line002
+    100182: pasted__pasted__Line01
+    100184: pasted__pasted__main_door
+    100186: pasted__pasted__master_bed_room_door
+    100188: pasted__pasted__master_bed_room_door 1
+    100190: pasted__pasted__pasted__Box01
+    100192: pasted__pasted__pasted__Box01 1
+    100194: pasted__pasted__pasted__Cylinder01
+    100196: pasted__pasted__pasted__Cylinder01 1
+    100198: pasted__pasted__pasted__dik
+    100200: pasted__pasted__pasted__dik 1
+    100202: pasted__pasted__pasted__dik001
+    100204: pasted__pasted__pasted__dik001 1
+    100206: pasted__pasted__pasted__Line002
+    100208: pasted__pasted__pasted__Line002 1
+    100210: pasted__pasted__pasted__Line01
+    100212: pasted__pasted__pasted__Line01 1
+    100214: pasted__pasted__pasted__main_door
+    100216: pasted__pasted__pasted__main_door 1
+    100218: pasted__pasted__pasted__Rectangle002
+    100220: pasted__pasted__pasted__Rectangle002 1
+    100222: pasted__pasted__pasted__Rectangle01
+    100224: pasted__pasted__pasted__Rectangle01 1
+    100226: pasted__pasted__pasted__Sphere005
+    100228: pasted__pasted__pasted__Sphere005 1
+    100230: pasted__pasted__pasted__Sphere006
+    100232: pasted__pasted__pasted__Sphere006 1
+    100234: pasted__pasted__pasted__Sphere007
+    100236: pasted__pasted__pasted__Sphere007 1
+    100238: pasted__pasted__pasted__Sphere008
+    100240: pasted__pasted__pasted__Sphere008 1
+    100242: pasted__pasted__pasted__Sphere01
+    100244: pasted__pasted__pasted__Sphere01 1
+    100246: pasted__pasted__pasted__Sphere02
+    100248: pasted__pasted__pasted__Sphere02 1
+    100250: pasted__pasted__pasted__Sphere03
+    100252: pasted__pasted__pasted__Sphere03 1
+    100254: pasted__pasted__pasted__Sphere04
+    100256: pasted__pasted__pasted__Sphere04 1
+    100258: pasted__pasted__Rectangle002
+    100260: pasted__pasted__Rectangle01
+    100262: pasted__pasted__Sphere005
+    100264: pasted__pasted__Sphere006
+    100266: pasted__pasted__Sphere007
+    100268: pasted__pasted__Sphere008
+    100270: pasted__pasted__Sphere01
+    100272: pasted__pasted__Sphere02
+    100274: pasted__pasted__Sphere03
+    100276: pasted__pasted__Sphere04
+    100278: pasted__Rectangle002
+    100280: pasted__Rectangle002 1
+    100282: pasted__Rectangle002 2
+    100284: pasted__Rectangle01
+    100286: pasted__Rectangle01 1
+    100288: pasted__Rectangle01 2
+    100290: pasted__samsung
+    100292: pasted__Sphere005
+    100294: pasted__Sphere005 1
+    100296: pasted__Sphere005 2
+    100298: pasted__Sphere006
+    100300: pasted__Sphere006 1
+    100302: pasted__Sphere006 2
+    100304: pasted__Sphere007
+    100306: pasted__Sphere007 1
+    100308: pasted__Sphere007 2
+    100310: pasted__Sphere008
+    100312: pasted__Sphere008 1
+    100314: pasted__Sphere008 2
+    100316: pasted__Sphere01
+    100318: pasted__Sphere01 1
+    100320: pasted__Sphere01 2
+    100322: pasted__Sphere02
+    100324: pasted__Sphere02 1
+    100326: pasted__Sphere02 2
+    100328: pasted__Sphere03
+    100330: pasted__Sphere03 1
+    100332: pasted__Sphere03 2
+    100334: pasted__Sphere04
+    100336: pasted__Sphere04 1
+    100338: pasted__Sphere04 2
+    100340: pasted__washer
+    100342: pasted__washroom_door_2
+    100344: pasted__washroom_door_2 1
+    100346: pPlane2
+    100348: pPlane3
+    100350: railing
+    100352: Railing 1
+    100354: Rectangle002
+    100356: Rectangle01
+    100358: samsung
+    100360: second_bed_room_door
+    100362: sofa
+    100364: Sphere005
+    100366: Sphere006
+    100368: Sphere007
+    100370: Sphere008
+    100372: Sphere01
+    100374: Sphere02
+    100376: Sphere03
+    100378: Sphere04
+    100380: telvision
+    100382: tv_and_remote:pCube142
+    100384: tv_and_remote:TV
+    100386: tv_and_remote:tv_and_remote
+    100388: tv_and_remote:typeMesh4
+    100390: washer
+    100392: washroom_door_1
+    100394: washroom_door_2
+    400000: 3DGeom~1
+    400002: 3DGeom~10
+    400004: 3DGeom~2
+    400006: 3DGeom~3
+    400008: 3DGeom~4
+    400010: 3DGeom~5
+    400012: 3DGeom~6
+    400014: 3DGeom~7
+    400016: 3DGeom~8
+    400018: 3DGeom~9
+    400020: Assembly~1
+    400022: Assembly~10
+    400024: Assembly~3
+    400026: Assembly~4
+    400028: bed_1
+    400030: Box001
+    400032: Box002
+    400034: Box004
+    400036: Box005
+    400038: Box006
+    400040: Box007
+    400042: Box008
+    400044: Box009
+    400046: Box01
+    400048: Box010
+    400050: Cylinder002
+    400052: Cylinder01
+    400054: dik
+    400056: dik001
+    400058: dryer
+    400060: end_door
+    400062: //RootNode
+    400064: Ground
+    400066: Group001
+    400068: kitchen
+    400070: kitchen_cabinet
+    400072: laundry_room
+    400074: "Layer29:yaz\u0131002"
+    400076: "Layer29:yaz\u013101"
+    400078: "Layer30:yaz\u0131002"
+    400080: "Layer30:yaz\u013101"
+    400082: "Layer31:yaz\u0131002"
+    400084: "Layer31:yaz\u013101"
+    400086: "Layer32:yaz\u0131002"
+    400088: "Layer32:yaz\u013101"
+    400090: "Layer33:yaz\u0131002"
+    400092: "Layer33:yaz\u013101"
+    400094: "Layer34:yaz\u0131002"
+    400096: "Layer34:yaz\u013101"
+    400098: "Layer:yaz\u0131002"
+    400100: "Layer:yaz\u013101"
+    400102: Line002
+    400104: Line01
+    400106: Lova 1
+    400108: main_door
+    400110: master_bed_room_door
+    400112: Object001
+    400114: Part~2
+    400116: Part~5
+    400118: Part~6
+    400120: Part~7
+    400122: Part~8
+    400124: Part~9
+    400126: pasted__Box01
+    400128: pasted__Box01 1
+    400130: pasted__Box01 2
+    400132: pasted__Cylinder01
+    400134: pasted__Cylinder01 1
+    400136: pasted__Cylinder01 2
+    400138: pasted__dik
+    400140: pasted__dik 1
+    400142: pasted__dik 2
+    400144: pasted__dik001
+    400146: pasted__dik001 1
+    400148: pasted__dik001 2
+    400150: pasted__Line002
+    400152: pasted__Line002 1
+    400154: pasted__Line002 2
+    400156: pasted__Line01
+    400158: pasted__Line01 1
+    400160: pasted__Line01 2
+    400162: pasted__main_door
+    400164: pasted__main_door 1
+    400166: pasted__main_door 2
+    400168: pasted__master_bed_room_door
+    400170: pasted__Object001
+    400172: pasted__pasted__Box01
+    400174: pasted__pasted__Cylinder01
+    400176: pasted__pasted__dik
+    400178: pasted__pasted__dik001
+    400180: pasted__pasted__Line002
+    400182: pasted__pasted__Line01
+    400184: pasted__pasted__main_door
+    400186: pasted__pasted__master_bed_room_door
+    400188: pasted__pasted__master_bed_room_door 1
+    400190: pasted__pasted__pasted__Box01
+    400192: pasted__pasted__pasted__Box01 1
+    400194: pasted__pasted__pasted__Cylinder01
+    400196: pasted__pasted__pasted__Cylinder01 1
+    400198: pasted__pasted__pasted__dik
+    400200: pasted__pasted__pasted__dik 1
+    400202: pasted__pasted__pasted__dik001
+    400204: pasted__pasted__pasted__dik001 1
+    400206: pasted__pasted__pasted__Line002
+    400208: pasted__pasted__pasted__Line002 1
+    400210: pasted__pasted__pasted__Line01
+    400212: pasted__pasted__pasted__Line01 1
+    400214: pasted__pasted__pasted__main_door
+    400216: pasted__pasted__pasted__main_door 1
+    400218: pasted__pasted__pasted__Rectangle002
+    400220: pasted__pasted__pasted__Rectangle002 1
+    400222: pasted__pasted__pasted__Rectangle01
+    400224: pasted__pasted__pasted__Rectangle01 1
+    400226: pasted__pasted__pasted__Sphere005
+    400228: pasted__pasted__pasted__Sphere005 1
+    400230: pasted__pasted__pasted__Sphere006
+    400232: pasted__pasted__pasted__Sphere006 1
+    400234: pasted__pasted__pasted__Sphere007
+    400236: pasted__pasted__pasted__Sphere007 1
+    400238: pasted__pasted__pasted__Sphere008
+    400240: pasted__pasted__pasted__Sphere008 1
+    400242: pasted__pasted__pasted__Sphere01
+    400244: pasted__pasted__pasted__Sphere01 1
+    400246: pasted__pasted__pasted__Sphere02
+    400248: pasted__pasted__pasted__Sphere02 1
+    400250: pasted__pasted__pasted__Sphere03
+    400252: pasted__pasted__pasted__Sphere03 1
+    400254: pasted__pasted__pasted__Sphere04
+    400256: pasted__pasted__pasted__Sphere04 1
+    400258: pasted__pasted__Rectangle002
+    400260: pasted__pasted__Rectangle01
+    400262: pasted__pasted__Sphere005
+    400264: pasted__pasted__Sphere006
+    400266: pasted__pasted__Sphere007
+    400268: pasted__pasted__Sphere008
+    400270: pasted__pasted__Sphere01
+    400272: pasted__pasted__Sphere02
+    400274: pasted__pasted__Sphere03
+    400276: pasted__pasted__Sphere04
+    400278: pasted__Rectangle002
+    400280: pasted__Rectangle002 1
+    400282: pasted__Rectangle002 2
+    400284: pasted__Rectangle01
+    400286: pasted__Rectangle01 1
+    400288: pasted__Rectangle01 2
+    400290: pasted__samsung
+    400292: pasted__Sphere005
+    400294: pasted__Sphere005 1
+    400296: pasted__Sphere005 2
+    400298: pasted__Sphere006
+    400300: pasted__Sphere006 1
+    400302: pasted__Sphere006 2
+    400304: pasted__Sphere007
+    400306: pasted__Sphere007 1
+    400308: pasted__Sphere007 2
+    400310: pasted__Sphere008
+    400312: pasted__Sphere008 1
+    400314: pasted__Sphere008 2
+    400316: pasted__Sphere01
+    400318: pasted__Sphere01 1
+    400320: pasted__Sphere01 2
+    400322: pasted__Sphere02
+    400324: pasted__Sphere02 1
+    400326: pasted__Sphere02 2
+    400328: pasted__Sphere03
+    400330: pasted__Sphere03 1
+    400332: pasted__Sphere03 2
+    400334: pasted__Sphere04
+    400336: pasted__Sphere04 1
+    400338: pasted__Sphere04 2
+    400340: pasted__washer
+    400342: pasted__washroom_door_2
+    400344: pasted__washroom_door_2 1
+    400346: pPlane2
+    400348: pPlane3
+    400350: railing
+    400352: Railing 1
+    400354: Rectangle002
+    400356: Rectangle01
+    400358: samsung
+    400360: second_bed_room_door
+    400362: sofa
+    400364: Sphere005
+    400366: Sphere006
+    400368: Sphere007
+    400370: Sphere008
+    400372: Sphere01
+    400374: Sphere02
+    400376: Sphere03
+    400378: Sphere04
+    400380: telvision
+    400382: tv_and_remote:pCube142
+    400384: tv_and_remote:TV
+    400386: tv_and_remote:tv_and_remote
+    400388: tv_and_remote:typeMesh4
+    400390: washer
+    400392: washroom_door_1
+    400394: washroom_door_2
+    2100000: lambert1
+    2100002: Lovos korpusas
+    2100004: Lovos kaldra
+    2100006: Lovos pilka medziaga
+    2100008: Paklode
+    2100010: Pataline rusva
+    2100012: tv_and_remote_tv_bottom
+    2100014: tv_and_remote_Tv_screen
+    2100016: tv_and_remote_BLACK_SHINY_MATERIAL
+    2100018: lambert2
+    2100020: Material1269
+    2100022: 12
+    2100024: 21 - Default
+    2100026: 20 - Default
+    2100028: 22 - Default
+    2100030: panel
+    2100032: white
+    2100034: logo
+    2100036: plastic
+    2100038: Glass
+    2100040: ChromeMate
+    2100042: plastic2
+    2100044: aluminium
+    2100046: pasted__panel
+    2100048: pasted__white
+    2100050: pasted__logo
+    2100052: pasted__plastic
+    2100054: pasted__Glass
+    2100056: pasted__ChromeMate
+    2100058: pasted__plastic2
+    2100060: pasted__aluminium
+    2100062: M_kitchen_cabinet
+    2100064: lambert3
+    2100066: M_kitchen_cabinet_sink
+    2100068: 01 - Default
+    2100070: wood_243
+    2100072: wood_243s
+    2100074: wood_2a43
+    2100076: pasted__01 - Default
+    2100078: pasted__wood_243
+    2100080: pasted__wood_243s
+    2100082: pasted__wood_2a43
+    2100084: pasted__01 - Default1
+    2100086: pasted__wood_244
+    2100088: pasted__wood_243s1
+    2100090: pasted__wood_2a44
+    2100092: pasted__pasted__01 - Default1
+    2100094: pasted__pasted__wood_244
+    2100096: pasted__pasted__wood_243s1
+    2100098: pasted__pasted__wood_2a44
+    2100100: pasted__pasted__pasted__01 - Default1
+    2100102: pasted__pasted__pasted__wood_244
+    2100104: pasted__pasted__pasted__wood_243s1
+    2100106: pasted__pasted__pasted__wood_2a44
+    2100108: pasted__pasted__pasted__01 - Default2
+    2100110: pasted__pasted__pasted__wood_245
+    2100112: pasted__pasted__pasted__wood_243s2
+    2100114: pasted__pasted__pasted__wood_2a45
+    2100116: pasted__01 - Default2
+    2100118: pasted__wood_245
+    2100120: pasted__wood_243s2
+    2100122: pasted__wood_2a45
+    2100124: iron
+    2300000: 3DGeom~1
+    2300002: 3DGeom~10
+    2300004: 3DGeom~2
+    2300006: 3DGeom~3
+    2300008: 3DGeom~4
+    2300010: 3DGeom~5
+    2300012: 3DGeom~6
+    2300014: 3DGeom~7
+    2300016: 3DGeom~8
+    2300018: 3DGeom~9
+    2300020: Box001
+    2300022: Box002
+    2300024: Box004
+    2300026: Box005
+    2300028: Box006
+    2300030: Box007
+    2300032: Box008
+    2300034: Box009
+    2300036: Box01
+    2300038: Box010
+    2300040: Cylinder002
+    2300042: Cylinder01
+    2300044: dik
+    2300046: dik001
+    2300048: kitchen_cabinet
+    2300050: "Layer29:yaz\u0131002"
+    2300052: "Layer29:yaz\u013101"
+    2300054: "Layer30:yaz\u0131002"
+    2300056: "Layer30:yaz\u013101"
+    2300058: "Layer31:yaz\u0131002"
+    2300060: "Layer31:yaz\u013101"
+    2300062: "Layer32:yaz\u0131002"
+    2300064: "Layer32:yaz\u013101"
+    2300066: "Layer33:yaz\u0131002"
+    2300068: "Layer33:yaz\u013101"
+    2300070: "Layer34:yaz\u0131002"
+    2300072: "Layer34:yaz\u013101"
+    2300074: "Layer:yaz\u0131002"
+    2300076: "Layer:yaz\u013101"
+    2300078: Line002
+    2300080: Line01
+    2300082: Object001
+    2300084: pasted__Box01
+    2300086: pasted__Box01 1
+    2300088: pasted__Box01 2
+    2300090: pasted__Cylinder01
+    2300092: pasted__Cylinder01 1
+    2300094: pasted__Cylinder01 2
+    2300096: pasted__dik
+    2300098: pasted__dik 1
+    2300100: pasted__dik 2
+    2300102: pasted__dik001
+    2300104: pasted__dik001 1
+    2300106: pasted__dik001 2
+    2300108: pasted__Line002
+    2300110: pasted__Line002 1
+    2300112: pasted__Line002 2
+    2300114: pasted__Line01
+    2300116: pasted__Line01 1
+    2300118: pasted__Line01 2
+    2300120: pasted__Object001
+    2300122: pasted__pasted__Box01
+    2300124: pasted__pasted__Cylinder01
+    2300126: pasted__pasted__dik
+    2300128: pasted__pasted__dik001
+    2300130: pasted__pasted__Line002
+    2300132: pasted__pasted__Line01
+    2300134: pasted__pasted__pasted__Box01
+    2300136: pasted__pasted__pasted__Box01 1
+    2300138: pasted__pasted__pasted__Cylinder01
+    2300140: pasted__pasted__pasted__Cylinder01 1
+    2300142: pasted__pasted__pasted__dik
+    2300144: pasted__pasted__pasted__dik 1
+    2300146: pasted__pasted__pasted__dik001
+    2300148: pasted__pasted__pasted__dik001 1
+    2300150: pasted__pasted__pasted__Line002
+    2300152: pasted__pasted__pasted__Line002 1
+    2300154: pasted__pasted__pasted__Line01
+    2300156: pasted__pasted__pasted__Line01 1
+    2300158: pasted__pasted__pasted__Rectangle002
+    2300160: pasted__pasted__pasted__Rectangle002 1
+    2300162: pasted__pasted__pasted__Rectangle01
+    2300164: pasted__pasted__pasted__Rectangle01 1
+    2300166: pasted__pasted__pasted__Sphere005
+    2300168: pasted__pasted__pasted__Sphere005 1
+    2300170: pasted__pasted__pasted__Sphere006
+    2300172: pasted__pasted__pasted__Sphere006 1
+    2300174: pasted__pasted__pasted__Sphere007
+    2300176: pasted__pasted__pasted__Sphere007 1
+    2300178: pasted__pasted__pasted__Sphere008
+    2300180: pasted__pasted__pasted__Sphere008 1
+    2300182: pasted__pasted__pasted__Sphere01
+    2300184: pasted__pasted__pasted__Sphere01 1
+    2300186: pasted__pasted__pasted__Sphere02
+    2300188: pasted__pasted__pasted__Sphere02 1
+    2300190: pasted__pasted__pasted__Sphere03
+    2300192: pasted__pasted__pasted__Sphere03 1
+    2300194: pasted__pasted__pasted__Sphere04
+    2300196: pasted__pasted__pasted__Sphere04 1
+    2300198: pasted__pasted__Rectangle002
+    2300200: pasted__pasted__Rectangle01
+    2300202: pasted__pasted__Sphere005
+    2300204: pasted__pasted__Sphere006
+    2300206: pasted__pasted__Sphere007
+    2300208: pasted__pasted__Sphere008
+    2300210: pasted__pasted__Sphere01
+    2300212: pasted__pasted__Sphere02
+    2300214: pasted__pasted__Sphere03
+    2300216: pasted__pasted__Sphere04
+    2300218: pasted__Rectangle002
+    2300220: pasted__Rectangle002 1
+    2300222: pasted__Rectangle002 2
+    2300224: pasted__Rectangle01
+    2300226: pasted__Rectangle01 1
+    2300228: pasted__Rectangle01 2
+    2300230: pasted__Sphere005
+    2300232: pasted__Sphere005 1
+    2300234: pasted__Sphere005 2
+    2300236: pasted__Sphere006
+    2300238: pasted__Sphere006 1
+    2300240: pasted__Sphere006 2
+    2300242: pasted__Sphere007
+    2300244: pasted__Sphere007 1
+    2300246: pasted__Sphere007 2
+    2300248: pasted__Sphere008
+    2300250: pasted__Sphere008 1
+    2300252: pasted__Sphere008 2
+    2300254: pasted__Sphere01
+    2300256: pasted__Sphere01 1
+    2300258: pasted__Sphere01 2
+    2300260: pasted__Sphere02
+    2300262: pasted__Sphere02 1
+    2300264: pasted__Sphere02 2
+    2300266: pasted__Sphere03
+    2300268: pasted__Sphere03 1
+    2300270: pasted__Sphere03 2
+    2300272: pasted__Sphere04
+    2300274: pasted__Sphere04 1
+    2300276: pasted__Sphere04 2
+    2300278: pPlane2
+    2300280: pPlane3
+    2300282: Railing 1
+    2300284: Rectangle002
+    2300286: Rectangle01
+    2300288: Sphere005
+    2300290: Sphere006
+    2300292: Sphere007
+    2300294: Sphere008
+    2300296: Sphere01
+    2300298: Sphere02
+    2300300: Sphere03
+    2300302: Sphere04
+    2300304: tv_and_remote:pCube142
+    2300306: tv_and_remote:typeMesh4
+    3300000: 3DGeom~1
+    3300002: 3DGeom~10
+    3300004: 3DGeom~2
+    3300006: 3DGeom~3
+    3300008: 3DGeom~4
+    3300010: 3DGeom~5
+    3300012: 3DGeom~6
+    3300014: 3DGeom~7
+    3300016: 3DGeom~8
+    3300018: 3DGeom~9
+    3300020: Box001
+    3300022: Box002
+    3300024: Box004
+    3300026: Box005
+    3300028: Box006
+    3300030: Box007
+    3300032: Box008
+    3300034: Box009
+    3300036: Box01
+    3300038: Box010
+    3300040: Cylinder002
+    3300042: Cylinder01
+    3300044: dik
+    3300046: dik001
+    3300048: kitchen_cabinet
+    3300050: "Layer29:yaz\u0131002"
+    3300052: "Layer29:yaz\u013101"
+    3300054: "Layer30:yaz\u0131002"
+    3300056: "Layer30:yaz\u013101"
+    3300058: "Layer31:yaz\u0131002"
+    3300060: "Layer31:yaz\u013101"
+    3300062: "Layer32:yaz\u0131002"
+    3300064: "Layer32:yaz\u013101"
+    3300066: "Layer33:yaz\u0131002"
+    3300068: "Layer33:yaz\u013101"
+    3300070: "Layer34:yaz\u0131002"
+    3300072: "Layer34:yaz\u013101"
+    3300074: "Layer:yaz\u0131002"
+    3300076: "Layer:yaz\u013101"
+    3300078: Line002
+    3300080: Line01
+    3300082: Object001
+    3300084: pasted__Box01
+    3300086: pasted__Box01 1
+    3300088: pasted__Box01 2
+    3300090: pasted__Cylinder01
+    3300092: pasted__Cylinder01 1
+    3300094: pasted__Cylinder01 2
+    3300096: pasted__dik
+    3300098: pasted__dik 1
+    3300100: pasted__dik 2
+    3300102: pasted__dik001
+    3300104: pasted__dik001 1
+    3300106: pasted__dik001 2
+    3300108: pasted__Line002
+    3300110: pasted__Line002 1
+    3300112: pasted__Line002 2
+    3300114: pasted__Line01
+    3300116: pasted__Line01 1
+    3300118: pasted__Line01 2
+    3300120: pasted__Object001
+    3300122: pasted__pasted__Box01
+    3300124: pasted__pasted__Cylinder01
+    3300126: pasted__pasted__dik
+    3300128: pasted__pasted__dik001
+    3300130: pasted__pasted__Line002
+    3300132: pasted__pasted__Line01
+    3300134: pasted__pasted__pasted__Box01
+    3300136: pasted__pasted__pasted__Box01 1
+    3300138: pasted__pasted__pasted__Cylinder01
+    3300140: pasted__pasted__pasted__Cylinder01 1
+    3300142: pasted__pasted__pasted__dik
+    3300144: pasted__pasted__pasted__dik 1
+    3300146: pasted__pasted__pasted__dik001
+    3300148: pasted__pasted__pasted__dik001 1
+    3300150: pasted__pasted__pasted__Line002
+    3300152: pasted__pasted__pasted__Line002 1
+    3300154: pasted__pasted__pasted__Line01
+    3300156: pasted__pasted__pasted__Line01 1
+    3300158: pasted__pasted__pasted__Rectangle002
+    3300160: pasted__pasted__pasted__Rectangle002 1
+    3300162: pasted__pasted__pasted__Rectangle01
+    3300164: pasted__pasted__pasted__Rectangle01 1
+    3300166: pasted__pasted__pasted__Sphere005
+    3300168: pasted__pasted__pasted__Sphere005 1
+    3300170: pasted__pasted__pasted__Sphere006
+    3300172: pasted__pasted__pasted__Sphere006 1
+    3300174: pasted__pasted__pasted__Sphere007
+    3300176: pasted__pasted__pasted__Sphere007 1
+    3300178: pasted__pasted__pasted__Sphere008
+    3300180: pasted__pasted__pasted__Sphere008 1
+    3300182: pasted__pasted__pasted__Sphere01
+    3300184: pasted__pasted__pasted__Sphere01 1
+    3300186: pasted__pasted__pasted__Sphere02
+    3300188: pasted__pasted__pasted__Sphere02 1
+    3300190: pasted__pasted__pasted__Sphere03
+    3300192: pasted__pasted__pasted__Sphere03 1
+    3300194: pasted__pasted__pasted__Sphere04
+    3300196: pasted__pasted__pasted__Sphere04 1
+    3300198: pasted__pasted__Rectangle002
+    3300200: pasted__pasted__Rectangle01
+    3300202: pasted__pasted__Sphere005
+    3300204: pasted__pasted__Sphere006
+    3300206: pasted__pasted__Sphere007
+    3300208: pasted__pasted__Sphere008
+    3300210: pasted__pasted__Sphere01
+    3300212: pasted__pasted__Sphere02
+    3300214: pasted__pasted__Sphere03
+    3300216: pasted__pasted__Sphere04
+    3300218: pasted__Rectangle002
+    3300220: pasted__Rectangle002 1
+    3300222: pasted__Rectangle002 2
+    3300224: pasted__Rectangle01
+    3300226: pasted__Rectangle01 1
+    3300228: pasted__Rectangle01 2
+    3300230: pasted__Sphere005
+    3300232: pasted__Sphere005 1
+    3300234: pasted__Sphere005 2
+    3300236: pasted__Sphere006
+    3300238: pasted__Sphere006 1
+    3300240: pasted__Sphere006 2
+    3300242: pasted__Sphere007
+    3300244: pasted__Sphere007 1
+    3300246: pasted__Sphere007 2
+    3300248: pasted__Sphere008
+    3300250: pasted__Sphere008 1
+    3300252: pasted__Sphere008 2
+    3300254: pasted__Sphere01
+    3300256: pasted__Sphere01 1
+    3300258: pasted__Sphere01 2
+    3300260: pasted__Sphere02
+    3300262: pasted__Sphere02 1
+    3300264: pasted__Sphere02 2
+    3300266: pasted__Sphere03
+    3300268: pasted__Sphere03 1
+    3300270: pasted__Sphere03 2
+    3300272: pasted__Sphere04
+    3300274: pasted__Sphere04 1
+    3300276: pasted__Sphere04 2
+    3300278: pPlane2
+    3300280: pPlane3
+    3300282: Railing 1
+    3300284: Rectangle002
+    3300286: Rectangle01
+    3300288: Sphere005
+    3300290: Sphere006
+    3300292: Sphere007
+    3300294: Sphere008
+    3300296: Sphere01
+    3300298: Sphere02
+    3300300: Sphere03
+    3300302: Sphere04
+    3300304: tv_and_remote:pCube142
+    3300306: tv_and_remote:typeMesh4
+    4300000: pPlane2
+    4300002: pPlane3
+    4300004: 3DGeom~1
+    4300006: 3DGeom~2
+    4300008: 3DGeom~3
+    4300010: 3DGeom~4
+    4300012: 3DGeom~5
+    4300014: 3DGeom~6
+    4300016: 3DGeom~7
+    4300018: 3DGeom~8
+    4300020: 3DGeom~9
+    4300022: 3DGeom~10
+    4300024: tv_and_remote:typeMesh4
+    4300026: tv_and_remote:pCube142
+    4300028: Cylinder002
+    4300030: Box001
+    4300032: Box002
+    4300034: Box004
+    4300036: Box005
+    4300038: Box006
+    4300040: Box007
+    4300042: Box009
+    4300044: Box010
+    4300046: Box008
+    4300048: Object001
+    4300050: pasted__Object001
+    4300052: kitchen_cabinet
+    4300054: Line01
+    4300056: Rectangle01
+    4300058: "Layer:yaz\u013101"
+    4300060: Sphere01
+    4300062: Sphere02
+    4300064: Sphere04
+    4300066: Cylinder01
+    4300068: Sphere03
+    4300070: dik
+    4300072: Box01
+    4300074: "Layer:yaz\u0131002"
+    4300076: Sphere005
+    4300078: Sphere006
+    4300080: Sphere007
+    4300082: Sphere008
+    4300084: Line002
+    4300086: dik001
+    4300088: Rectangle002
+    4300090: pasted__Line01
+    4300092: pasted__Rectangle01
+    4300094: "Layer29:yaz\u013101"
+    4300096: pasted__Sphere01
+    4300098: pasted__Sphere02
+    4300100: pasted__Sphere04
+    4300102: pasted__Cylinder01
+    4300104: pasted__Sphere03
+    4300106: pasted__dik
+    4300108: pasted__Box01
+    4300110: "Layer29:yaz\u0131002"
+    4300112: pasted__Sphere005
+    4300114: pasted__Sphere006
+    4300116: pasted__Sphere007
+    4300118: pasted__Sphere008
+    4300120: pasted__Line002
+    4300122: pasted__dik001
+    4300124: pasted__Rectangle002
+    4300126: pasted__Line01
+    4300128: pasted__Rectangle01
+    4300130: "Layer30:yaz\u013101"
+    4300132: pasted__Sphere01
+    4300134: pasted__Sphere02
+    4300136: pasted__Sphere04
+    4300138: pasted__Cylinder01
+    4300140: pasted__Sphere03
+    4300142: pasted__dik
+    4300144: pasted__Box01
+    4300146: "Layer30:yaz\u0131002"
+    4300148: pasted__Sphere005
+    4300150: pasted__Sphere006
+    4300152: pasted__Sphere007
+    4300154: pasted__Sphere008
+    4300156: pasted__Line002
+    4300158: pasted__dik001
+    4300160: pasted__Rectangle002
+    4300162: pasted__pasted__Line01
+    4300164: pasted__pasted__Rectangle01
+    4300166: "Layer31:yaz\u013101"
+    4300168: pasted__pasted__Sphere01
+    4300170: pasted__pasted__Sphere02
+    4300172: pasted__pasted__Sphere04
+    4300174: pasted__pasted__Cylinder01
+    4300176: pasted__pasted__Sphere03
+    4300178: pasted__pasted__dik
+    4300180: pasted__pasted__Box01
+    4300182: "Layer31:yaz\u0131002"
+    4300184: pasted__pasted__Sphere005
+    4300186: pasted__pasted__Sphere006
+    4300188: pasted__pasted__Sphere007
+    4300190: pasted__pasted__Sphere008
+    4300192: pasted__pasted__Line002
+    4300194: pasted__pasted__dik001
+    4300196: pasted__pasted__Rectangle002
+    4300198: pasted__pasted__pasted__Line01
+    4300200: pasted__pasted__pasted__Rectangle01
+    4300202: "Layer32:yaz\u013101"
+    4300204: pasted__pasted__pasted__Sphere01
+    4300206: pasted__pasted__pasted__Sphere02
+    4300208: pasted__pasted__pasted__Sphere04
+    4300210: pasted__pasted__pasted__Cylinder01
+    4300212: pasted__pasted__pasted__Sphere03
+    4300214: pasted__pasted__pasted__dik
+    4300216: pasted__pasted__pasted__Box01
+    4300218: "Layer32:yaz\u0131002"
+    4300220: pasted__pasted__pasted__Sphere005
+    4300222: pasted__pasted__pasted__Sphere006
+    4300224: pasted__pasted__pasted__Sphere007
+    4300226: pasted__pasted__pasted__Sphere008
+    4300228: pasted__pasted__pasted__Line002
+    4300230: pasted__pasted__pasted__dik001
+    4300232: pasted__pasted__pasted__Rectangle002
+    4300234: pasted__pasted__pasted__Line01
+    4300236: pasted__pasted__pasted__Rectangle01
+    4300238: "Layer33:yaz\u013101"
+    4300240: pasted__pasted__pasted__Sphere01
+    4300242: pasted__pasted__pasted__Sphere02
+    4300244: pasted__pasted__pasted__Sphere04
+    4300246: pasted__pasted__pasted__Cylinder01
+    4300248: pasted__pasted__pasted__Sphere03
+    4300250: pasted__pasted__pasted__dik
+    4300252: pasted__pasted__pasted__Box01
+    4300254: "Layer33:yaz\u0131002"
+    4300256: pasted__pasted__pasted__Sphere005
+    4300258: pasted__pasted__pasted__Sphere006
+    4300260: pasted__pasted__pasted__Sphere007
+    4300262: pasted__pasted__pasted__Sphere008
+    4300264: pasted__pasted__pasted__Line002
+    4300266: pasted__pasted__pasted__dik001
+    4300268: pasted__pasted__pasted__Rectangle002
+    4300270: pasted__Line01
+    4300272: pasted__Rectangle01
+    4300274: "Layer34:yaz\u013101"
+    4300276: pasted__Sphere01
+    4300278: pasted__Sphere02
+    4300280: pasted__Sphere04
+    4300282: pasted__Cylinder01
+    4300284: pasted__Sphere03
+    4300286: pasted__dik
+    4300288: pasted__Box01
+    4300290: "Layer34:yaz\u0131002"
+    4300292: pasted__Sphere005
+    4300294: pasted__Sphere006
+    4300296: pasted__Sphere007
+    4300298: pasted__Sphere008
+    4300300: pasted__Line002
+    4300302: pasted__dik001
+    4300304: pasted__Rectangle002
+    4300306: Railing 1
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
